@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/#"
+    "url": "https://github.com/c-hris/ChrisStarter/"
   },
   "keywords": [
     "gulp",
@@ -19,9 +19,9 @@
   "author": "Chris",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/#"
+    "url": "https://github.com/c-hris/ChrisStarter/"
   },
-  "homepage": "https://github.com/#",
+  "homepage": "https://github.com/c-hris/ChrisStarter/",
   "devDependencies": {
     "browser-sync": "^2.0.0",
     "gulp": "^3.8.8",
