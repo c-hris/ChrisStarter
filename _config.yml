@@ -1,0 +1,12 @@
+# Site settings
+title: Moviesthrone
+email: your-email@domain.com
+description: Free Online Movies!
+# Build settings
+markdown: kramdown
+exclude:
+  - node_modules
+  - README.md
+sass:
+  sass_dir: assets/css
+  style: :nested
