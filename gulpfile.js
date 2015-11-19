@@ -7,7 +7,6 @@ var uglify       = require('gulp-uglify');
 var rename       = require("gulp-rename");
 var imagemin     = require("gulp-imagemin");
 var pngquant     = require('imagemin-pngquant');
-var cp           = require('child_process');
 var messages     = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
