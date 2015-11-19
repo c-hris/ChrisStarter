@@ -1,12 +1,15 @@
 # chrisStarter
 Starter for his websites GULP, Browser Sync, Autoprefixer, Plumber, Rename, Sass, Uglify, Imagemin-pngquant
+* Build the Jekyll Site
+* Compiles, autoprefixes and minimizes your Sass
+* Uglifys your JS
+* Compresses your Images
+* Launch the Server
+* Watch for any changes 
 
 Is mainly for Windows Users if you want to use it on a mac in gulpfile change line 20 to
-```
 
-return cp.spawn('jekyll', ['build'], {stdio: 'inherit'}) .on('close', done);
-
-```
+`return cp.spawn('jekyll', ['build'], {stdio: 'inherit'}) .on('close', done);`
 
 ###To use this starter project, you'll need the following things installed on your machine.
 
@@ -32,4 +35,4 @@ $ gulp
 Thanks to 
 * [shakyShane](https://github.com/shakyShane/jekyll-gulp-sass-browser-sync) for jekyll-gulp-sass-browser-sync
 * [Dope](https://github.com/dope/gulp-starter) for gulp-starter
-* [DevTips](https://github.com/DevTips/DevTips-Starter-Kit) @travisNeilson for the Starter-Kit
+* [DevTips](https://github.com/DevTips/DevTips-Starter-Kit) for the Starter-Kit
