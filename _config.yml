@@ -1,7 +1,7 @@
 # Site settings
-title: Moviesthrone
+title: Site Title
 email: your-email@domain.com
-description: Free Online Movies!
+description: Site Description
 # Build settings
 markdown: kramdown
 exclude:
