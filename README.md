@@ -35,4 +35,4 @@ $ gulp
 Thanks to 
 * [shakyShane](https://github.com/shakyShane/jekyll-gulp-sass-browser-sync) for jekyll-gulp-sass-browser-sync
 * [Dope](https://github.com/dope/gulp-starter) for gulp-starter
-* [DevTips](https://github.com/DevTips/DevTips-Starter-Kit) for the Starter-Kit
+* [DevTips](https://github.com/DevTips/DevTips-Starter-Kit/tree/Jekyll-Starter-Kit) for the Starter-Kit
